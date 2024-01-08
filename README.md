@@ -13,3 +13,10 @@ We operated on Netflix Movies and TV Shows dataset which includes several featur
 8. Davies-Bouldin Index is used for the evaluation of the models.
 9. Davies-Bouldin Index measures the size of clusters against the average distance between clusters.
 10. Using Cosine similarity a recommendation function is created to provide the title of shows which are similar in nature.
+
+Conclusion:
+
+1. After processing the data we used 2 algorithms to create clusters .
+2. In K-Means Clustering we found out that 11 clusters will be suitable for out data according to Elbow method and Silhouette score.We got Davies-Bouldin Score = 8.78672699596316,K-Means distortion = 6243.116283761523 and K-Means Silhouette score = 0.010783495257423758.
+3. In Hierarchical clustering we got 5 Clusters based on the unique colours. We got Davies-Bouldin Score = 9.909708620641966.
+4. So based on the Davies_Bouldin Score and the Cluster representation K-Means Clustering is suitable for pur Dataset.
