@@ -1,7 +1,7 @@
 # Netflix Movies and TV Shows Clustering
 Project Summary: 
 
-We used Netflix Movies and TV Shows dataset which includes several features like Show id, Type of content, Title ,Name of the Director(s),Name of the Cast(s),Country,Date added,Release year,Rating,Duration,Type of Genre and Description.There were around 7787 records and 12 attributes in the dataset. The process followed:
+We operated on Netflix Movies and TV Shows dataset which includes several features like Show id, Type of content, Title ,Name of the Director(s),Name of the Cast(s),Country,Date added,Release year,Rating,Duration,Type of Genre and Description.There were around 7787 records and 12 attributes in the dataset. The process followed:
 
 1. Analysed the data- The number of rows and columns it had,type of the features presented,the kind of data each particular feature had,checked for duplicated or missing values.
 2. Data manipulation- Checked for outliers and null values and fiixed it with the necessary operations.
